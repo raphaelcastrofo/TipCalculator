@@ -1,16 +1,17 @@
 <resources>
-    <string name="app_name">TipCalculator</string>
-    <string-array name="num_people">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-    </string-array>
+    <string name="app_name">Tip Calculator</string>
+    <string name="Summary_subtitle">Check bellow the summary of your bill</string>
+    <string name="summary">Summary</string>
+    <string name="total_table">Total of table:</string>
+    <string name="numeber_of_people">Number of people:</string>
+    <string name="percentage_of_tip">Percentage of tip:</string>
+    <string name="Main_subtitle">Fillout the fields bellow to make the calculation</string>
+    <string name="Bill_amount">Write the bill amount</string>
+    <string name="Number_of_people_enter">Type the number of people on the table:</string>
+    <string name="Percentage_enter">Type the tip percentage:</string>
+    <string name="refresh_btn">Refresh</string>
+    <string name="clean">Clean</string>
+    <string name="done">Done</string>
+    <string name="ex_amount">Ex.: $ 250,00</string>
+
 </resources>
